@@ -1,5 +1,5 @@
  # Warning: old code
- Code is a year old so its basically absolete
+ Code is a year old so its basically absolete (though most of the apis still work fine)
  
  # Sorting
  Krunker Api resorted and downscaled: https://swatdoge.nl/s/krunkerbrowser/krunker_data_sorted.json
